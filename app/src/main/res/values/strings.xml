@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MapMarc</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu">Menu</string>
+  <string name="Hibrido">Hibrido</string>
+    <string name="Satelital">Satelital</string>
+    <string name="Terreno">Terreno</string>
+    <string name="Normal">Normal</string>
+    <string name="Ninguno">Ninguno</string>
+</resources>
